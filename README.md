@@ -4,7 +4,7 @@
 https://www.udemy.com/vuejs-2-the-complete-guide/
 
 
-### 1-Getting Started  <a href="https://github.com/pachoyan/VueJsCourse/tree/master/1-Getting%20Started/Example%201">(Go)</a>
+### 1-Getting Started  <a href="https://github.com/pachoyan/VueJsCourse/tree/master/1-Getting%20Started">(Go)</a>
 
 - 1. Example 1 
 - 2. Example 2
