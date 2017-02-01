@@ -4,9 +4,6 @@
 https://www.udemy.com/vuejs-2-the-complete-guide/
 
 
-Vue Js Course
-
-
 ### 1-Getting Started
 
 - 1. Example 1
