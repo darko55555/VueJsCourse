@@ -6,7 +6,7 @@ Vue Js Course
 
 - 1. Example 1
 - 2. Example 2
-- 3. Local VueJs 
+- 3. Local VueJS
 
 
 ### 2-Using Vue to interact with the DOM
