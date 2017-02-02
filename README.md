@@ -11,7 +11,7 @@ https://www.udemy.com/vuejs-2-the-complete-guide/
 - 3. Local VueJS
 
 
-### 2-Using Vue to interact with the DOM - <a href="https://github.com/pachoyan/VueJsCourse/tree/master/2-Using%20Vue%20to%20interact%20with%20the%20DOM">(Go)</a>
+### 2-Using Vue to interact with the DOM <a href="https://github.com/pachoyan/VueJsCourse/tree/master/2-Using%20Vue%20to%20interact%20with%20the%20DOM">(Go)</a>
 
 - 1. Methods binding
 - 2. Accessing Data ni the Vue Instance
