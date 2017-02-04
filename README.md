@@ -14,7 +14,7 @@ https://www.udemy.com/vuejs-2-the-complete-guide/
 ### 2-Using Vue to interact with the DOM <a href="https://github.com/pachoyan/VueJsCourse/tree/master/2-Using%20Vue%20to%20interact%20with%20the%20DOM">(Go)</a>
 
 - 1. Methods binding
-- 2. Accessing Data ni the Vue Instance
+- 2. Accessing Data in the Vue Instance
 - 3. Binding Attributes
 - 4. Disable re-rendering with v-once
 - 5. How to Output Raw HTML
