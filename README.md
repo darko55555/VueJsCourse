@@ -18,4 +18,9 @@ https://www.udemy.com/vuejs-2-the-complete-guide/
 - 3. Binding Attributes
 - 4. Disable re-rendering with v-once
 - 5. How to Output Raw HTML
-- Exercise 1
+- 6. Listen to events
+- 7. Getting Event Data from the Event Object
+- 8. Passing your own Arguments with Events
+- 9. Modifying an Event - with Event Modifiers
+- Exercise 1 - DOM
+- Exercise 2 - Events
