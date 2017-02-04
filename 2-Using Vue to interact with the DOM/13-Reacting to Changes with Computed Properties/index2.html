@@ -1,0 +1,22 @@
+<script src="https://unpkg.com/vue/dist/vue.js"></script>
+
+<div id="app">
+  <button v-on:click="counter++">Increase</button>
+  <button v-on:click="counter--">Decrease</button>
+  <p>Counter: {{ counter }}</p>
+  <p>Result: {{ result() }}</p>
+</div>
+
+<script type="text/javascript">
+    new Vue({
+      el: '#app',
+      data: {
+        counter : 0
+      },
+      methods: {
+        result() {
+         return this.counter > 5 ? 'Greater 5' : 'Smaller 5';
+        }
+      }
+    });
+</script>
