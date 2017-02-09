@@ -48,3 +48,7 @@ https://www.udemy.com/vuejs-2-the-complete-guide/
 - 8-Looping through a List of Numbers
 - 9-Keeping Track of Elements when using v-for
 - Exercise 1
+
+### 4-First Course Project - The Monster Slayer <a href="https://github.com/pachoyan/VueJsCourse/tree/master/4-First%20Course%20Project%20-%20The%20Monster%20Slayer">(Go)</a>
+
+- Setup
