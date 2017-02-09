@@ -36,3 +36,15 @@ https://www.udemy.com/vuejs-2-the-complete-guide/
 - Exercise 2 - Events
 - Exercise 3 - Watcher and Computed
 - Exercise 4 - Dynamic Styling with CSS
+
+### 3-Using Conditionals and Rendering Lists <a href="https://github.com/pachoyan/VueJsCourse/tree/master/3-Using%20Conditionals%20and%20Rendering%20Lists">(Go)</a>
+- 1-Using Conditionals and Rendering Lists
+- 2-Using an Alternative v-if Syntax
+- 3-Don't Detach it with v-show
+- 4-Rendering Lists with v-for
+- 5-Getting the Current Index
+- 6-Using an Alternative v-for Syntax
+- 7-Looping through Objects
+- 8-Looping through a List of Numbers
+- 9-Keeping Track of Elements when using v-for
+- Exercise 1
