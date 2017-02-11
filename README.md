@@ -52,3 +52,15 @@ https://www.udemy.com/vuejs-2-the-complete-guide/
 ### 4-First Course Project - The Monster Slayer <a href="https://github.com/pachoyan/VueJsCourse/tree/master/4-First%20Course%20Project%20-%20The%20Monster%20Slayer">(Go)</a>
 
 - Setup
+
+### 5-Understanding the VueJS Instance <a href="https://github.com/pachoyan/VueJsCourse/tree/master/5-Understanding%20the%20VueJS%20Instance">(Go)</a>
+ 
+- 1-Some Basics about the VueJS Instance
+- 2-Using Multiple Vue Instance
+- 3-Accessing the Vue Instance from Outside
+- 4-How VueJS manages your Data and Methods
+- 5-A Closer Look at $el and $data
+- 6-Placing $refs and Using them on your Templates
+- 7-Mounting a Template
+- 8-Using components
+- 9-The VueJS Instance Lifecycle in practice
