@@ -1,5 +1,5 @@
-# VueJsCourse Work
-## Vue JS 2 - The Complete Guide (incl. Vuex)
+# My VueJs Course Work
+## Course: Vue JS 2 - The Complete Guide (incl. Vuex)
 
 https://www.udemy.com/vuejs-2-the-complete-guide/
 
