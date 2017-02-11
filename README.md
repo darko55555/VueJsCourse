@@ -2,6 +2,7 @@
 ## Vue JS 2 - The Complete Guide (incl. Vuex)
 
 https://www.udemy.com/vuejs-2-the-complete-guide/
+Course by: Maximilian Schwarzmüller, Professional Web Developer and Instructor
 
 
 ### 1-Getting Started  <a href="https://github.com/pachoyan/VueJsCourse/tree/master/1-Getting%20Started">(Go)</a>
