@@ -71,3 +71,12 @@ Course by: Maximilian Schwarzmüller, Professional Web Developer and Instructor
 ### 6-Moving to a "Real" Development Workflow with Webpack and Vue CLI <a href="https://github.com/pachoyan/VueJsCourse/tree/master/6-Moving%20to%20a%20%22Real%22%20Development%20Workflow%20with%20Webpack%20and%20Vue%20CLI">(Go)</a>
 
 - vue-cli
+
+### 7-An Introduction to Components <a href="https://github.com/pachoyan/VueJsCourse/tree/master/7-An%20Introduction%20to%20Components">(Go)</a>
+
+- 1-An Introduction to Components
+- 2-Storing data in components
+- 3-Registering Components Locally and Globally
+- 4-The "Root Component" in the App.vue File
+- 6-Using Components
+- Exercise 1
