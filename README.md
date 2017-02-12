@@ -66,3 +66,8 @@ Course by: Maximilian Schwarzmüller, Professional Web Developer and Instructor
 - 7-Mounting a Template
 - 8-Using components
 - 9-The VueJS Instance Lifecycle in practice
+
+
+### 6-Moving to a "Real" Development Workflow with Webpack and Vue CLI <a href="https://github.com/pachoyan/VueJsCourse/tree/master/6-Moving%20to%20a%20%22Real%22%20Development%20Workflow%20with%20Webpack%20and%20Vue%20CLI">(Go)</a>
+
+- vue-cli
