@@ -13,6 +13,7 @@
 <script>
 </script>
 
+<!--Only around the component-->
 <style scoped>
     div {
         border: 1px solid blue;

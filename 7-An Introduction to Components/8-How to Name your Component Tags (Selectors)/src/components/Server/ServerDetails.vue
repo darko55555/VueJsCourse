@@ -8,6 +8,7 @@
 <script>
 </script>
 
+<!--scoped: Only around the component-->
 <style scoped>
     div {
         border: 1px solid red;
