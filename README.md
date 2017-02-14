@@ -79,4 +79,7 @@ Course by: Maximilian Schwarzmüller, Professional Web Developer and Instructor
 - 3-Registering Components Locally and Globally
 - 4-The "Root Component" in the App.vue File
 - 6-Using Components
+- 7-Moving to a better Structure
+- 8-How to Name your Component Tags (Selectors)
+- 9-Scoping Component Styles
 - Exercise 1
