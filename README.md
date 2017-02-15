@@ -83,3 +83,17 @@ Course by: Maximilian Schwarzmüller, Professional Web Developer and Instructor
 - 8-How to Name your Component Tags (Selectors)
 - 9-Scoping Component Styles
 - Exercise 1
+
+### 8-Communicating between components <a href="https://github.com/pachoyan/VueJsCourse/tree/master/8-Communicating%20between%20components">(Go)</a>
+
+- 1-Using Props for Parent => Child Communication
+- 2-Naming props
+- 3-Using "props" in the Child Component
+- 4-Validating props	Components	3 hours ago
+- 5-Using Custom Events for Child => Parent Communication
+- 6-Communicating with Callback Functions
+- 7-Communication between Sibling Components
+- 8-Using an Event Bus for Communication
+- 9-Centralizing Code in an Event Bus
+- Exercise 1 - My Solution
+- Exercise 1 -Teacher Solution
