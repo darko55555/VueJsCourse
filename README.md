@@ -97,3 +97,17 @@ Course by: Maximilian Schwarzmüller, Professional Web Developer and Instructor
 - 9-Centralizing Code in an Event Bus
 - Exercise 1 - My Solution
 - Exercise 1 -Teacher Solution
+
+### 9-Advanced Component Usage <a href="https://github.com/pachoyan/VueJsCourse/tree/master/9-Advanced%20Component%20Usage">(Go)</a>
+
+- 1-Setting up the Module Project
+- 2-Passing Content - The Suboptimal Solution
+- 3-Passing Content with Slots
+- 4-How Slot Content gets Compiled and Styled
+- 5-Using Multiple Slots (Named Slots)
+- 6-Default Slots and Slot Defaults	Components
+- 7-Switching Multiple Components with Dynamic Components
+- 8-Understanding Dynamic Component Behavior
+- 9-Keeping Dynamic Components Alive
+- 10-Dynamic Component Lifecycle Hooks
+- Exercise 1
