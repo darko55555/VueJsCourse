@@ -112,7 +112,7 @@ Course by: Maximilian Schwarzmüller, Professional Web Developer and Instructor
 - 10-Dynamic Component Lifecycle Hooks
 - Exercise 1
 
-10-Second Course Project - Wonderful Quotes <a href="https://github.com/pachoyan/VueJsCourse/tree/master/10-Second%20Course%20Project%20-%20Wonderful%20Quotes">(Go)</a>
+### 10-Second Course Project - Wonderful Quotes <a href="https://github.com/pachoyan/VueJsCourse/tree/master/10-Second%20Course%20Project%20-%20Wonderful%20Quotes">(Go)</a>
 
 - Setup
 
