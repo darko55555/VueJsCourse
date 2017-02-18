@@ -116,3 +116,16 @@ Course by: Maximilian Schwarzmüller, Professional Web Developer and Instructor
 
 - Setup
 
+### 11-Handling User Input with Forms <a href="https://github.com/pachoyan/VueJsCourse/tree/master/11-Handling%20User%20Input%20with%20Forms">(Go)</a>
+
+- 1-A Basic <input> Form Binding
+- 2-Grouping Data and Pre-Populating Inputs
+- 3-Modifying User Input with Input Modifiers
+- 4-Binding <textarea> and Saving Line Breaks
+- 5-Using Checkboxes and Saving Data in Arrays
+- 6-Using Radio Buttons	Forms	28 seconds ago
+- 7-Handling Dropdowns with <select> and <option>
+- 8-What v-model does and How to Create a Custom Control
+- 9-Submitting a Form
+- Exercise 1
+
