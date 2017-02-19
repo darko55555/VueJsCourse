@@ -129,3 +129,17 @@ Course by: Maximilian Schwarzmüller, Professional Web Developer and Instructor
 - 9-Submitting a Form
 - Exercise 1
 
+### 12-Using and Creating Directives <a href="https://github.com/pachoyan/VueJsCourse/tree/master/12-Using%20and%20Creating%20Directives">(Go)</a>
+
+- 1-Understanding Directives
+- 2-How Directives Work - Hook Functions
+- 3-Creating a Simple Directive
+- 4-Passing Values to Custom Directives
+- 5-Passing Arguments to Custom Directives
+- 6-Modifying a Custom Directive with Modifiers
+- 7-Registering Directives Locally
+- 8-Using Multiple Modifiers
+- 9-Passing more Complex Values to Directives
+- Exercise 1 - My Solution
+- Exercise 1 - Teacher Solution
+
