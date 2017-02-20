@@ -143,3 +143,15 @@ Course by: Maximilian Schwarzmüller, Professional Web Developer and Instructor
 - Exercise 1 - My Solution
 - Exercise 1 - Teacher Solution
 
+### 13-Improving your App with Filters and Mixins <a href="https://github.com/pachoyan/VueJsCourse/tree/master/13-Improving%20your%20App%20with%20Filters%20and%20Mixins">(Go)</a>
+
+- 1-Creating a Local Filte
+- 2-Global Filters and How to Chain Multiple Filters
+- 3-An (often-times better) Alternative to Filters - Computed Properties
+- 4-Creating and Using Mixins
+- 5-How Mixins get Merged
+- 6-Creating a Global Mixin Special Case
+- 7-Mixins and Scope
+- Exercise 1
+
+### 14-Adding Animations and Transitions <a href="https://github.com/pachoyan/VueJsCourse/tree/master/14-Adding%20Animations%20and%20Transitions">(Go)</a>
