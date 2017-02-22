@@ -170,5 +170,5 @@ Course by: Maximilian Schwarzmüller, Professional Web Developer and Instructor
 - 12-Excluding CSS from your Animation
 - 13-Creating an Animation in JavaScript
 - 14-Animating Dynamic Components
-- 15-Using <transition-group> - Preparations
-- 16-Using <transition-group> to Animate a List
+- 15-Using transition-group - Preparations
+- 16-Using transition-group to Animate a List
