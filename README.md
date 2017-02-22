@@ -155,3 +155,20 @@ Course by: Maximilian Schwarzmüller, Professional Web Developer and Instructor
 - Exercise 1
 
 ### 14-Adding Animations and Transitions <a href="https://github.com/pachoyan/VueJsCourse/tree/master/14-Adding%20Animations%20and%20Transitions">(Go)</a>
+
+- 1-Preparing Code to use Transitions
+- 2-Assigning CSS Classes for Transitions
+- 3-Creating a "Fade" Transition with the CSS Transition Property
+- 4-Creating a "Slide" Transition with the CSS Animation Property
+- 5-Mixing Transition and Animation Properties
+- 6-Animating v-if and v-show
+- 7-Setting Up an Initial (on-load) Animation
+- 8-Using Different CSS Class Names
+- 9-Using Dynamic Names and Attributes
+- 10-Transitioning between Multiple Elements (Practice)
+- 11-Understanding JavaScript Animations
+- 12-Excluding CSS from your Animation
+- 13-Creating an Animation in JavaScript
+- 14-Animating Dynamic Components
+- 15-Using <transition-group> - Preparations
+- 16-Using <transition-group> to Animate a List
