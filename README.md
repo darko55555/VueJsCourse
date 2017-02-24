@@ -174,3 +174,19 @@ Course by: Maximilian Schwarzmüller, Professional Web Developer and Instructor
 - 16-Using transition-group to Animate a List
 - Mini-App - Teacher Example
 - Monster Slayer with Animations - Teacher Example
+
+### 15-Connecting to Servers via Http - Using vue-resource <a href="https://github.com/pachoyan/VueJsCourse/tree/master/15-Connecting%20to%20Servers%20via%20Http%20-%20Using%20vue-resource">(Go)</a>
+
+- 1-Accessing Http via vue-resource - Setup
+- 2-Creating an Application and Setting Up a Server (Firebase)
+- 3-POSTing Data to a Server (Sending a POST Request)
+- 4-GETting and Transforming Data (Sending a GET Request)
+- 5-Configuring vue-resource Globally
+- 6-Intercepting requests
+- 7-Intercepting responses
+- 8-Where the "resource" in vue-resource Comes From
+- 9-Creating Custom Resources
+- 10-Understanding Template URLs
+
+
+
