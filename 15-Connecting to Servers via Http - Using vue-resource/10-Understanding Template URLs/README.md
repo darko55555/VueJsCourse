@@ -1,3 +1,6 @@
+#See template urls info:
+https://medialize.github.io/URI.js/uri-template.html
+
 # vue-cli
 
 > A Vue.js project

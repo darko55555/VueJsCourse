@@ -4,7 +4,7 @@ import App from './App.vue'
 
 //npm install --save vue-resource
 Vue.use(VueResource);
-Vue.http.options.root = 'https://famous-mission-120721.firebaseio.com/data.json';
+Vue.http.options.root = 'https://changeurl/data.json';
 Vue.http.interceptors.push((request, next) => {
   console.log(request);
   if(request.method == 'POST'){

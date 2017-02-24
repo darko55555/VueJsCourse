@@ -29,7 +29,7 @@
       },
       methods : {
         submit() {
-            this.$http.post('https://famous-mission-120721.firebaseio.com/data.json', this.user).then(response => {
+            this.$http.post('https://changeurl', this.user).then(response => {
               console.log(response);
             }, error => {
                 console.log(error);
