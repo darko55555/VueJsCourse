@@ -188,5 +188,23 @@ Course by: Maximilian Schwarzmüller, Professional Web Developer and Instructor
 - 9-Creating Custom Resources
 - 10-Understanding Template URLs
 
+### 16-Routing in a VueJS Application <a href="https://github.com/pachoyan/VueJsCourse/tree/master/16-Routing%20in%20a%20VueJS%20Application">(Go)</a>
 
+- 1-Setting up the VueJS Router (vue-router)
+- 2-Setting Up and Loading Routes
+- 3-Understanding Routing Modes (Hash vs History)
+- 4-Navigating with Router Links
+- 5-Where am I - Styling Active Links
+- 6-Navigating from Code (Imperative Navigation)
+- 7-Setting Up Route Parameters
+- 8-Fetching and Using Route Parameters
+- 9-Reacting to Changes in Route Parameters
+- 10-Setting Up Child Routes (Nested Routes)
+- 11-Navigating to Nested Routes
+- 12-Making Router Links more Dynamic
+- 13-A Better Way of Creating Links - With Named Routes
+- 14-Using Query Parameters
+- 15-Multiple Router Views (Named Router Views)
+- 16-Redirecting
+- 17-Setting Up "Catch All" Routes Wildcards
 
