@@ -207,4 +207,10 @@ Course by: Maximilian Schwarzmüller, Professional Web Developer and Instructor
 - 15-Multiple Router Views (Named Router Views)
 - 16-Redirecting
 - 17-Setting Up "Catch All" Routes Wildcards
-
+- 18-Animating Route Transitions
+- 19-Passing the Hash Fragment
+- 20-Controlling the Scroll Behavior
+- 21-Protecting Routes with Guards
+- 22-Using the "beforeEnter" Guard
+- 23-Using the "beforeLeave" Guard
+- 24-Loading Routes Lazily
