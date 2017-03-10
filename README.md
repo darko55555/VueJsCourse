@@ -4,7 +4,8 @@
 https://www.udemy.com/vuejs-2-the-complete-guide/
 
 Course by: Maximilian Schwarzmüller, Professional Web Developer and Instructor
-Thanks to Max. I recommend it if you want to learn vue in detail, the instructor explains all the content in an excellent way.
+
+Thanks to Max for this course. I recommend it if you want to learn vue in detail, the instructor explains all the content in an excellent way.
 
 
 ### 1-Getting Started  <a href="https://github.com/pachoyan/VueJsCourse/tree/master/1-Getting%20Started">(Go)</a>
