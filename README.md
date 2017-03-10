@@ -214,3 +214,19 @@ Course by: Maximilian Schwarzmüller, Professional Web Developer and Instructor
 - 22-Using the "beforeEnter" Guard
 - 23-Using the "beforeLeave" Guard
 - 24-Loading Routes Lazily
+
+### 17-Better State Management with Vuex <a href="https://github.com/pachoyan/VueJsCourse/tree/master/17-Better%20State%20Management%20with%20Vuex">(Go)</a>
+
+- 1-Using the Centralized State
+- 10-Modularizing the State Management
+- 11-Using Separate Files
+- 12-Using Namespaces to Avoid Naming Problems
+- 2-Why a Centralized State Alone Won't Fix It
+- 3-Using Getters
+- 4-Mapping Getters to Properties
+- 5-Using mutations
+- 6-Why Mutations have to run Synchronously
+- 7-Using actions
+- 8-Mapping Actions to Methods
+- 9-Two-Way-Binding (v-model) and Vuex
+- Teacher Solution
