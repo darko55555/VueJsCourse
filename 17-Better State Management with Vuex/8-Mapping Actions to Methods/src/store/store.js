@@ -24,7 +24,6 @@ export const store = new Vuex.Store({
         state.counter -= payLoad;
       }
     },
-    //Able to run async
     actions : {
       increment : ({ commit }, payLoad) => {
         commit('increment', payLoad);
